@@ -1,0 +1,1 @@
+alert("Ez az oldal sütiket használ")
